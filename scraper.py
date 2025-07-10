@@ -1,7 +1,7 @@
-import cloudscraper, html
+import cloudscraper
 from bs4 import BeautifulSoup
 
-def scrape_journals(url: str) -> str:
+def scrape_journal(url: str) -> str:
 	'''
 	method that fetches and cleans the text.
 	'''
@@ -17,6 +17,7 @@ def scrape_journals(url: str) -> str:
 	response = scraper.get(url)
 	if response.status_code != 200:
 		raise Exception(f"Failed to fetch page {url}: {response.status_code}")
+	scraper.close()
 	# parse the response
 	soup = BeautifulSoup(response.text, 'html.parser')
 	for ack in soup.find_all('section', id='acknowledgments'):

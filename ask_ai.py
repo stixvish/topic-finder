@@ -33,7 +33,9 @@ def find_topics(speech: str) -> str:
 	topics = response.choices[0].message.content
 	if topics is None:
 		raise ValueError("LLM response had no content")
-	match = re.search(r"```json\s*(.*?)```", topics, re.S)
-	if not match:
-		raise ValueError("No JSON block found")
-	return match.group(1)
+	output = re.search(r"```json\s*(.*?)```", topics, re.S)
+	if not output:
+		output = ""
+	else:
+		output = output.group(1)
+	return output
