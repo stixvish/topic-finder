@@ -11,7 +11,6 @@ def main():
 	records = {}
 	for year, url in urls.items():
 		text[year] = scrape_journal(url)
-	for year, url in urls.items():
 		topics = find_topics(text[year])
 		if topics:
 			topics = json.loads(topics)
@@ -19,7 +18,8 @@ def main():
 			continue
 		records[year] = topics
 
-	print(json.dumps(records, indent=2))
+	with open('output.json', 'w', encoding='utf-8') as f:
+		json.dump(records, f, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
 	main()
