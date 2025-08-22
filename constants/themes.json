@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Specialty Evolution & Governance",
+    "description": "The specialty\u2019s pursuit of autonomy and a coherent identity\u2014transitioning from a general-surgery subspecialty to primary certification, dedicated RRC oversight, and modern SVS governance\u2014alongside privileging standards, scope definition, and branding a unified public voice."
+  },
+  {
+    "name": "Education & Workforce",
+    "description": "Reform of training pathways and the talent pipeline: fellowship requirements, integrated 0\u20135/3+3 models with imaging/endovascular competence, simulation and minifellowships, outcome-based credentialing, and strategies to address shortages, maldistribution, retirements, recruitment, and community training models."
+  },
+  {
+    "name": "Endovascular Innovation",
+    "description": "The shift from open surgery to catheter-based therapies (angioplasty, stents, EVAR, CAS) and advanced imaging, emphasizing surgeon-led adoption, credentialing, and oversight; multidisciplinary vascular centers; management of inter-specialty competition; and alignment with FDA/CMS/coding to responsibly translate technology."
+  },
+  {
+    "name": "Quality, Outcomes & Registries",
+    "description": "Data-driven performance improvement: volume\u2013outcome science, prospective audits, NSQIP, SVS VQI/PSO, guidelines and appropriateness criteria, public reporting and P4P, and comparative/cost-effectiveness studies that set indications, benchmarks, and certification for clinicians and centers."
+  },
+  {
+    "name": "Health Policy & Economics",
+    "description": "The policy and financial context shaping practice\u2014DRGs, RBRVS/SGR to MACRA, managed care, site-of-service incentives, CPT/ICD coding, reimbursement advocacy, and valuation of vascular programs\u2014affecting access, sustainability, and physician autonomy across hospital and office-based settings."
+  },
+  {
+    "name": "Scientific Research & Funding",
+    "description": "Foundational and translational science driving progress: vascular biology (endothelium, thrombosis, hyperplasia), prosthetics and tissue engineering, device evaluation and trials, and cultivation of surgeon-scientists; addresses funding climates (NIH, Lifeline/AVA) and ethical industry partnerships to sustain discovery."
+  },
+  {
+    "name": "Professionalism, Ethics & Inclusion",
+    "description": "A patient-first culture centered on humanistic care, time and listening, integrity and self-regulation, and confronting overtreatment and conflicts; expanded to wellness, mentorship, leadership development, and DEI initiatives that broaden representation and align the specialty with societal values."
+  }
+]

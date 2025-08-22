@@ -1,0 +1,10 @@
+# mac files
+.DS_Store
+
+# python auto generated files
+__pycache__/
+output.json
+
+# environment variables
+.env
+.python-version

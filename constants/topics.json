@@ -1,0 +1,1646 @@
+{
+  "1986": [
+    {
+      "name": "Intellectual health",
+      "confidence": 10,
+      "description": "Calls for refocusing vascular surgery on scientific understanding and sound theory/practice rather than administrative or economic concerns."
+    },
+    {
+      "name": "Arterial reconstruction history",
+      "confidence": 9,
+      "description": "Traces the mechanical evolution from homografts to synthetic materials (Dacron, ePTFE) and early surgical milestones."
+    },
+    {
+      "name": "Prosthetic graft limitations",
+      "confidence": 9,
+      "description": "Details pseudointima formation, uncertain porosity effects, lack of true endothelialization, poorer small-caliber/distal performance, and material issues."
+    },
+    {
+      "name": "Anastomotic hyperplasia mechanisms",
+      "confidence": 9,
+      "description": "Examines pannus formation, smooth muscle/myofibroblast proliferation, platelet-derived factors, flow/compliance mismatch, and persistent lesions despite endothelialization."
+    },
+    {
+      "name": "Platelet and complement",
+      "confidence": 8,
+      "description": "Shows platelet deposition on grafts, effects of aspirin/heparin on early thrombosis, differing thrombogenicity (Dacron vs ePTFE), and Dacron-driven complement activation."
+    },
+    {
+      "name": "Endothelial cell seeding",
+      "confidence": 8,
+      "description": "Describes seeding techniques with collagen/fibronectin, improved endothelialization and reduced platelet uptake, and questions about long-term cell function and phenotype."
+    },
+    {
+      "name": "Vascular wall biology",
+      "confidence": 8,
+      "description": "Highlights endothelial anticoagulant/procoagulant pathways, PDGF-driven smooth muscle growth, heparin-like inhibitors, leukocyte adhesion, and the shift to molecular insights."
+    },
+    {
+      "name": "Tissue engineered vessels",
+      "confidence": 6,
+      "description": "Introduces biodegradable scaffolds, tri-layer vessel constructs, and endothelial\u2013smooth muscle coculture models aiming for fully biologic grafts."
+    },
+    {
+      "name": "Research funding climate",
+      "confidence": 7,
+      "description": "Discusses declining NIH support for surgery, need for alternative funding, institutional backing, multidisciplinary teams, and cultivating surgeon-scientists."
+    },
+    {
+      "name": "Halfway technology critique",
+      "confidence": 7,
+      "description": "Warns against reliance on compensatory procedures; urges prevention and molecular approaches, foreseeing atherosclerosis becoming preventable and some operations obsolete."
+    }
+  ],
+  "1987": [
+    {
+      "name": "Mandatory Vascular Fellowship",
+      "confidence": 10,
+      "description": "Argues that new general surgery graduates must complete a dedicated vascular fellowship to practice vascular surgery safely."
+    },
+    {
+      "name": "Training and Outcomes",
+      "confidence": 9,
+      "description": "Links formal training and surgeon experience to patient outcomes, warning against suboptimal care without adequate preparation."
+    },
+    {
+      "name": "Program Accreditation Mechanisms",
+      "confidence": 8,
+      "description": "Details the development of fellowships, PEEC reviews, Residency Review Committee oversight, and board exams to standardize training."
+    },
+    {
+      "name": "Hospital Privileging Standards",
+      "confidence": 8,
+      "description": "Calls for clear criteria and auditing mechanisms for granting vascular surgery privileges, especially for recent graduates."
+    },
+    {
+      "name": "Case Volume Comparisons",
+      "confidence": 7,
+      "description": "Contrasts limited vascular exposure in general surgery residencies with high-volume fellowships using specific procedure counts."
+    },
+    {
+      "name": "History of Training",
+      "confidence": 7,
+      "description": "Reviews leadership addresses and reports from 1970\u20131985 that highlighted deficiencies and propelled structured training."
+    },
+    {
+      "name": "Specialization vs Fragmentation",
+      "confidence": 7,
+      "description": "Supports subspecialization under general surgery with added qualifications while resisting fragmentation into separate boards."
+    },
+    {
+      "name": "Experienced Surgeon Recognition",
+      "confidence": 6,
+      "description": "Acknowledges established general surgeons with substantial case volume and results as competent to continue vascular practice."
+    },
+    {
+      "name": "General Training Benefits",
+      "confidence": 6,
+      "description": "Explains how vascular skills strengthen general surgery and benefit related fields like cardiac, plastic, and transplantation."
+    },
+    {
+      "name": "Manpower and Referral",
+      "confidence": 5,
+      "description": "Discusses workforce considerations and encourages referral to adequately trained surgeons who maintain sufficient annual volumes."
+    }
+  ],
+  "1989": [
+    {
+      "name": "Academic Career Reflections",
+      "confidence": 10,
+      "description": "Personal narrative of accidental career shifts into surgery and academia, using experiences to derive lessons for younger vascular surgeons."
+    },
+    {
+      "name": "Vascular Research Imperative",
+      "confidence": 9,
+      "description": "Argues research must remain central to the specialty, urging focus on fundamental disease mechanisms, human validation, and not ceding leadership to other fields."
+    },
+    {
+      "name": "Training and Competence",
+      "confidence": 9,
+      "description": "Stresses need for specialized vascular training, maintaining operative skills, confronting incompetence, and the shortcomings of general surgery preparation."
+    },
+    {
+      "name": "Values and Medical Ethics",
+      "confidence": 8,
+      "description": "Explores moral foundations shaped by religious upbringing, endorsing medicine as a higher calling that requires conscience and ethical responsibility."
+    },
+    {
+      "name": "Perseverance and Work Ethic",
+      "confidence": 8,
+      "description": "Highlights stubbornness, modest intellect, hard work, and being a lifelong learner as keys to success; includes coping with rejection and disciplined writing."
+    },
+    {
+      "name": "Mentors and Role Models",
+      "confidence": 7,
+      "description": "Emphasizes the formative influence of heroes and mentors (e.g., Harkins, DeTakats) and the value of guiding trainees toward excellence."
+    },
+    {
+      "name": "Publishing and Communication",
+      "confidence": 7,
+      "description": "Defends 'publish or perish,' advocates clear writing, and urges publishing beyond surgical journals to reach nonsurgeons and enhance credibility."
+    },
+    {
+      "name": "Patient Centered Care",
+      "confidence": 7,
+      "description": "Affirms doctors-first ethos with patient welfare foremost; calls for vigilance, objectivity, and advocacy in clinical decisions and standards."
+    },
+    {
+      "name": "Interdisciplinary Collaboration",
+      "confidence": 6,
+      "description": "Encourages seeking tools and ideas outside one\u2019s field, extra training in sciences, and embracing serendipity to solve clinical problems."
+    },
+    {
+      "name": "Acknowledgments and Gratitude",
+      "confidence": 4,
+      "description": "Expresses thanks to family, colleagues, and trainees, naming individuals who significantly shaped his professional journey."
+    }
+  ],
+  "1990": [
+    {
+      "name": "Standards of Care",
+      "confidence": 10,
+      "description": "Calls for establishing and maintaining standardized criteria for patient selection, operative indications, and morbidity/mortality benchmarks across vascular conditions."
+    },
+    {
+      "name": "Technology Evaluation",
+      "confidence": 9,
+      "description": "Urges rigorous, prospective evaluation of new interventions (e.g., laser angioplasty, atherectomy) and warns against expedient, uncontrolled adoption driven by entrepreneurship."
+    },
+    {
+      "name": "Cost and Reimbursement",
+      "confidence": 9,
+      "description": "Examines pressures from Medicare/third-party payors, DRGs, and package pricing, urging surgeon participation in payment criteria to value cognitive work and avoid piecework."
+    },
+    {
+      "name": "Quality Assurance",
+      "confidence": 8,
+      "description": "Advocates Society-led outcome tracking, data pooling, and benchmarks, including long-term follow-up, to improve results and address reports of suboptimal care."
+    },
+    {
+      "name": "Research Priorities",
+      "confidence": 8,
+      "description": "Highlights the need to strengthen clinical and basic research, reverse declining NIH support, and expand initiatives like Research Initiatives and the Lifeline Foundation."
+    },
+    {
+      "name": "Training and Education",
+      "confidence": 8,
+      "description": "Critiques board failure rates and training gaps, calling for rigorous programs, broad medical competence, and RRC oversight tied to trainee performance."
+    },
+    {
+      "name": "Patient Selection Ethics",
+      "confidence": 7,
+      "description": "Questions operating for mild symptoms (e.g., claudication), stressing understanding natural history and comparing operative versus nonoperative therapy."
+    },
+    {
+      "name": "Historical Context",
+      "confidence": 6,
+      "description": "Reviews the field\u2019s early decades, the role of pioneers, and how journals and meetings created checks, balances, and evolving standards."
+    },
+    {
+      "name": "External Scrutiny",
+      "confidence": 6,
+      "description": "Discusses Rand and forthcoming evaluations (carotid endarterectomy, abdominal aortic aneurysm), media impact, and the need to lead in defining indications and outcomes."
+    },
+    {
+      "name": "Device Innovation",
+      "confidence": 5,
+      "description": "Calls for better vascular prostheses beyond Dacron/Gore-Tex and stronger collaboration with industry to improve arterial substitutes."
+    }
+  ],
+  "1991": [
+    {
+      "name": "Humanistic Patient Care",
+      "confidence": 10,
+      "description": "Argues that compassion, honesty, respect, and close physician\u2013patient connection must counteract technology-driven dehumanization, and calls for role-modeling humanism throughout training."
+    },
+    {
+      "name": "Nurturing Surgeon-Scientists",
+      "confidence": 10,
+      "description": "Insists the specialty must cultivate surgeon-scientists to generate surgical knowledge, bridge bench and bedside, and secure the future of vascular surgery."
+    },
+    {
+      "name": "Research as Obligation",
+      "confidence": 9,
+      "description": "Frames research as the profession\u2019s duty to society, linking humanism to scientific inquiry, invoking SVS\u2019s founding mission, and endorsing randomized trials and reporting standards."
+    },
+    {
+      "name": "Research Funding Crisis",
+      "confidence": 9,
+      "description": "Details declining NIH/NHLBI awards, heavy trainee debt, and competition with PhDs, urging diversified funding beyond NIH and citing philanthropic and specialty-society sources."
+    },
+    {
+      "name": "Lifeline Foundation Grants",
+      "confidence": 9,
+      "description": "Announces SVS\u2019s Lifeline Foundation program with $50,000 annual grants for early-career surgeons, outlining eligibility, timelines, and its role in signaling institutional support."
+    },
+    {
+      "name": "Industry Partnerships",
+      "confidence": 8,
+      "description": "Proposes an industry coalition and advisory council to fund research, redirecting meeting entertainment budgets to grants in alignment with AMA ethics guidance."
+    },
+    {
+      "name": "NIH Representation Liaison",
+      "confidence": 7,
+      "description": "Highlights underrepresentation of surgeons on NHLBI councils and study sections and creates an SVS/ISCVS task force to improve NIH liaison, funding, and training curricula."
+    },
+    {
+      "name": "Societal and Ethical Challenges",
+      "confidence": 7,
+      "description": "Surveys media doctor-bashing, conflicts of interest, billing abuses, research fraud, managed-care burdens, liability, and rationing, urging engagement that remains patient-focused."
+    },
+    {
+      "name": "Boundaries of Medicine",
+      "confidence": 6,
+      "description": "Cautions against medicalizing broader social problems and urges surgeons to stay within areas of competence while prioritizing patient care and scientific advancement."
+    },
+    {
+      "name": "SVS Historical Overview",
+      "confidence": 6,
+      "description": "Reviews themes of past presidential addresses, shifts from scientific reports to societal issues, training/certification debates, and the role of the Journal of Vascular Surgery."
+    }
+  ],
+  "1993": [
+    {
+      "name": "Promote Vascular Research",
+      "confidence": 9,
+      "description": "Reviews SVS efforts to advance research via NIH collaborations, committees, and the Lifeline Foundation; highlights the shift from clinical observation to basic and clinical science, including outcomes/effectiveness research."
+    },
+    {
+      "name": "Define Surgery's Role",
+      "confidence": 9,
+      "description": "Traces evolution from open arterial procedures to endovascular and pharmacologic therapies (angioplasty, vena cava filters, thrombolysis), anticipates gene transfer and endografts, and establishes oversight for endovascular grafting."
+    },
+    {
+      "name": "Pooling Knowledge",
+      "confidence": 7,
+      "description": "Describes mechanisms to share expertise\u2014annual meetings, postgraduate courses, consensus conferences, registries, multicenter trials\u2014and the central role of the Journal of Vascular Surgery."
+    },
+    {
+      "name": "Standardize Nomenclature",
+      "confidence": 6,
+      "description": "Calls for precise CPT and ICD coding for vascular procedures and diseases to ensure fair reimbursement and accurate reporting, with SVS engaging AMA and federal bodies to revise codes."
+    },
+    {
+      "name": "Teaching Vascular Disease",
+      "confidence": 7,
+      "description": "Emphasizes integrating vascular disease education into medical school and residency, adopting new teaching methods, and expanding basic science (especially vascular biology) in curricula."
+    },
+    {
+      "name": "Specialized Training Programs",
+      "confidence": 8,
+      "description": "Details the decades-long effort to establish accredited vascular surgery fellowships and certification, current program numbers, and ongoing needs for structured curricula and research training."
+    },
+    {
+      "name": "Annual Meetings",
+      "confidence": 5,
+      "description": "Reviews the growth and changing content/format of SVS meetings, the addition of research and critical issues forums, and increasing member engagement over time."
+    },
+    {
+      "name": "Vascular Biology Emergence",
+      "confidence": 8,
+      "description": "Highlights the rise of vascular biology as the key scientific frontier, its impact on diagnostics and therapeutics, and the need to train surgeon-scientists through NIH/AHA-supported programs."
+    },
+    {
+      "name": "Vascular Medicine Movement",
+      "confidence": 7,
+      "description": "Examines cardiology-led initiatives to create multidisciplinary vascular medicine programs and urges surgeon-led vascular centers focused on comprehensive, preventive, team-based care."
+    },
+    {
+      "name": "Health Care Reform",
+      "confidence": 6,
+      "description": "Addresses government influence on practice and education (DRGs, RBRVS, proposed reforms) and the importance of SVS advocacy and representation in policy and reimbursement decisions."
+    }
+  ],
+  "1994": [
+    {
+      "name": "Volume-Outcome Relationship",
+      "confidence": 10,
+      "description": "Presents extensive evidence that higher hospital and surgeon procedure volumes correlate with lower mortality and complication rates across vascular operations."
+    },
+    {
+      "name": "Credentialing via Audits",
+      "confidence": 9,
+      "description": "Advocates prospective, procedure-specific outcome audits to grant and renew hospital privileges, using index operations and proxy cases for low-volume surgeons."
+    },
+    {
+      "name": "Carotid Endarterectomy Outcomes",
+      "confidence": 9,
+      "description": "Reviews historical complications, appropriateness studies, and strong volume-related outcome differences; urges prospective auditing due to high stroke costs and variability."
+    },
+    {
+      "name": "Public Reporting Policy",
+      "confidence": 8,
+      "description": "Discusses HCFA, JCAHO, and state initiatives, including New York\u2019s coronary bypass reporting, weighing transparency benefits against risks and urging specialty-led criteria."
+    },
+    {
+      "name": "Hospital Reporting Standards",
+      "confidence": 8,
+      "description": "Critiques hospitals\u2019 failure to track surgical outcomes, debates severity indexing limits, and argues for local, routine measurement of mortality and complications."
+    },
+    {
+      "name": "Practice Indications Guidelines",
+      "confidence": 8,
+      "description": "Covers RAND and ACS appropriateness ratings for CEA, noting many operations were unjustified and that guidelines alone cannot ensure quality without outcome control."
+    },
+    {
+      "name": "Surgeon Experience Training",
+      "confidence": 7,
+      "description": "Highlights variability among surgeons, the value of vascular fellowship training, and the risks posed by 'occasional' surgeons despite community practice potential."
+    },
+    {
+      "name": "Aortic Aneurysm Resection",
+      "confidence": 6,
+      "description": "Summarizes statewide data showing much higher mortality for low-volume surgeons and the prevalence of very low-volume elective repairs."
+    },
+    {
+      "name": "Lower Extremity Revascularization",
+      "confidence": 6,
+      "description": "Reports registry findings linking low surgeon volume to higher amputation rates and warns of potentially avoidable limb loss with better imaging and graft choices."
+    },
+    {
+      "name": "Results-Oriented Surgery",
+      "confidence": 9,
+      "description": "Frames the profession\u2019s duty as delivering measurable results and calls for returning to fundamentals amid cost pressures and bureaucratic uncertainty."
+    }
+  ],
+  "1995": [
+    {
+      "name": "Endovascular Technology Adoption",
+      "confidence": 10,
+      "description": "Argues that less-invasive endovascular therapies will replace many open procedures and urges vascular surgeons to adopt, master, and lead their appropriate use."
+    },
+    {
+      "name": "Academic-Private Collaboration",
+      "confidence": 9,
+      "description": "Examines historic rifts, mutual criticisms, and calls for cooperative relationships to sustain training centers, balance research, and improve patient care."
+    },
+    {
+      "name": "Managed Care Pressures",
+      "confidence": 9,
+      "description": "Details cost containment, mega-insurer influence, gatekeeping, and the shift to contracts based on cost and outcomes that reshape how vascular care is delivered."
+    },
+    {
+      "name": "Regulatory Agency Impact",
+      "confidence": 8,
+      "description": "Discusses FDA and HCFA roles, delays, off-label use, biomaterials access, and reimbursement for investigational devices, urging reforms for timely innovation."
+    },
+    {
+      "name": "Multidisciplinary Vascular Centers",
+      "confidence": 8,
+      "description": "Advocates integrated teams (surgeons, interventional radiologists, cardiologists) that cross departmental lines, with vascular surgeons in leadership roles."
+    },
+    {
+      "name": "Outcome Data Reporting",
+      "confidence": 7,
+      "description": "Calls for comprehensive, unbiased outcomes across the full disease spectrum and joint academic\u2013private reporting to meet managed care demands."
+    },
+    {
+      "name": "Declining Physician Influence",
+      "confidence": 7,
+      "description": "Highlights the shift of therapeutic decision power toward insurers and regulators and asserts decisions should rest with knowledgeable, ethical physicians."
+    },
+    {
+      "name": "Training and Judgment",
+      "confidence": 7,
+      "description": "Critiques overemphasis on procedure counts, urging more focus on critical thinking and openness to competing technologies in surgical education."
+    },
+    {
+      "name": "Red Wine Prevention",
+      "confidence": 6,
+      "description": "Explores the \u2018French Paradox\u2019\u2014grape-skin extract and nitric oxide effects on lipids, platelets, and endothelium\u2014while noting regulatory and reimbursement hurdles."
+    },
+    {
+      "name": "Mentors and Gratitude",
+      "confidence": 4,
+      "description": "Opens by acknowledging mentors who shaped the speaker\u2019s medical career and provided opportunities and guidance."
+    }
+  ],
+  "1996": [
+    {
+      "name": "Darwinian Principles",
+      "confidence": 10,
+      "description": "Applies Darwin\u2019s evolution and natural selection to medical specialties, arguing vascular surgery must adapt to a changing environment to survive."
+    },
+    {
+      "name": "Endovascular Technology",
+      "confidence": 9,
+      "description": "Details catheter-based therapies (balloons, stents, grafts) that may replace open surgery, highlighting both opportunity and existential threat to surgeons."
+    },
+    {
+      "name": "Specialty Competition",
+      "confidence": 9,
+      "description": "Explains the struggle with interventional radiology, cardiology, and resurgent general surgery for patients, procedures, and resources."
+    },
+    {
+      "name": "Endovascular Training",
+      "confidence": 9,
+      "description": "Urges current vascular surgeons to gain catheter\u2013guidewire\u2013imaging skills via courses, supervised clinical experience, and credentialing to remain viable."
+    },
+    {
+      "name": "Vascular Disease Centers",
+      "confidence": 8,
+      "description": "Proposes multidisciplinary, co-led centers with pooled fees and joint decision-making to optimize care, reduce turf battles, and accelerate innovation."
+    },
+    {
+      "name": "Certification Governance",
+      "confidence": 8,
+      "description": "Critiques ABS and RRC-S structures that treat vascular surgery as a subset of general surgery, citing mandate conflicts and advocating stronger representation and eventual independence."
+    },
+    {
+      "name": "Healthcare Economics",
+      "confidence": 8,
+      "description": "Describes managed care, funding cuts, and generalist control that disincentivize invasive treatments and intensify competition for limited dollars."
+    },
+    {
+      "name": "Residency Reform",
+      "confidence": 7,
+      "description": "Calls for integrating endovascular competence into vascular training (APDVS, RRC-S), defining a 'real' vascular surgeon, and planning workforce needs."
+    },
+    {
+      "name": "Darwin Biography",
+      "confidence": 7,
+      "description": "Summarizes Darwin\u2019s life, Beagle voyage, development of evolutionary theory, probable Chagas-related illness, character, and broad scientific output."
+    },
+    {
+      "name": "Specialty Independence",
+      "confidence": 7,
+      "description": "Predicts vascular surgery\u2019s divergence from general surgery into a distinct specialty with its own board to best serve patients."
+    }
+  ],
+  "1997": [
+    {
+      "name": "ABVS Formation",
+      "confidence": 10,
+      "description": "Rationale and steps leading to the 1996 incorporation of the American Board of Vascular Surgery, reactions from surgical bodies, and its intended impact on the specialty and patient care."
+    },
+    {
+      "name": "Training and Certification",
+      "confidence": 9,
+      "description": "Evolution of vascular training programs and certification (PEEC, RRC-S, ABMS), exam development, and calls to reform how surgeons are trained, accredited, and recertified."
+    },
+    {
+      "name": "ABS and ABTS Relations",
+      "confidence": 8,
+      "description": "Conflict and negotiation with the American Board of Surgery and American Board of Thoracic Surgery, including governance issues, communications, representation, and policy changes."
+    },
+    {
+      "name": "Workforce Projections",
+      "confidence": 8,
+      "description": "Forecast of surgeon supply and demand driven by the aging population, projected procedure volumes, training capacity limits, and implications even with endovascular advances."
+    },
+    {
+      "name": "Specialization and Outcomes",
+      "confidence": 8,
+      "description": "Evidence that high-volume vascular specialists achieve superior results (e.g., Iowa carotid endarterectomy data), arguing for specialized care to improve patient safety."
+    },
+    {
+      "name": "Conjoint Board Proposal",
+      "confidence": 7,
+      "description": "Consideration of establishing a Conjoint Board under ABS/ABTS sponsorship, its structure, director appointments, and operational advantages versus a Primary Board."
+    },
+    {
+      "name": "Specialty Evolution History",
+      "confidence": 7,
+      "description": "Chronology from early 1970s advocacy (Wylie, Cannon, DeWeese) through regulatory milestones and certification changes that shaped vascular surgery as a distinct specialty."
+    },
+    {
+      "name": "Generalists vs Specialists",
+      "confidence": 6,
+      "description": "Debate over fragmented care versus specialist benefits, noting improved access to specialty care today and the declining vascular practice by general surgeons."
+    },
+    {
+      "name": "Member Support Survey",
+      "confidence": 5,
+      "description": "Reported polling of society members showing strong approval\u2014especially among ABS-certified vascular surgeons\u2014for pursuing ABMS recognition of the ABVS."
+    },
+    {
+      "name": "Hospital Privileges Policies",
+      "confidence": 4,
+      "description": "Comments on privileging tied to competence rather than Board status, and how liability concerns and low volumes restrict nonvascular surgeons\u2019 vascular privileges."
+    }
+  ],
+  "1998": [
+    {
+      "name": "Legend Leadership Legacy",
+      "confidence": 10,
+      "description": "Frames the address around linking past achievements to future outcomes through wise leadership, urging reflection to chart a steady course."
+    },
+    {
+      "name": "Identity and Certification",
+      "confidence": 9,
+      "description": "Details efforts to define the specialty via certification\u2014forming an independent board and negotiating an ABS vascular sub-board\u2014to control training standards and professional identity."
+    },
+    {
+      "name": "Endovascular Turf Encroachment",
+      "confidence": 9,
+      "description": "Addresses radiology/cardiology expansion into minimally invasive vascular therapies and the need for surgeons to lead and responsibly evaluate endoluminal technologies."
+    },
+    {
+      "name": "Alexis Carrel Contributions",
+      "confidence": 9,
+      "description": "Provides a detailed account of Carrel\u2019s innovations\u2014from vascular anastomosis to tissue/organ culture and perfusion\u2014with their foundational impact on vascular surgery."
+    },
+    {
+      "name": "Creativity and Research",
+      "confidence": 8,
+      "description": "Calls for nurturing surgeon-scientists, improving funding (e.g., Lifeline Foundation), easing academic pressure, and sustaining basic research to avoid becoming mere technicians."
+    },
+    {
+      "name": "Carrel Leadership Failures",
+      "confidence": 8,
+      "description": "Examines how Carrel\u2019s indecision over the Lourdes case and his controversial institute on human perfectibility undermined his reputation and diluted his legacy."
+    },
+    {
+      "name": "Patient Welfare Priority",
+      "confidence": 7,
+      "description": "Reaffirms surgeons as guardians of patients\u2019 welfare, warning against adopting changes or interventions before evidence shows they are right (e.g., incidental renal artery angioplasty)."
+    },
+    {
+      "name": "Training and Alliances",
+      "confidence": 7,
+      "description": "Outlines options\u2014do nothing, ally with other fields, or 'just do it'\u2014and promotes training vascular surgeons in catheter-based skills, with younger surgeons teaching seniors."
+    },
+    {
+      "name": "External Pressures",
+      "confidence": 6,
+      "description": "Describes devaluation of surgical work, financial erosion, rapid change, and turf threats that constrain creativity and practice."
+    },
+    {
+      "name": "Call to Leadership",
+      "confidence": 7,
+      "description": "Issues an urgent appeal for boldness and judgment now to craft a strong legacy, invoking proactive evolution and 'Carpe diem.'"
+    }
+  ],
+  "1999": [
+    {
+      "name": "Medical Professionalism",
+      "confidence": 10,
+      "description": "Defines altruism, autonomy, ethics, and self-regulation; warns commercialization and managed care threaten professional judgment and trust (e.g., rigid evidence-based algorithms, outcome metrics)."
+    },
+    {
+      "name": "Healthcare Economics",
+      "confidence": 9,
+      "description": "Critiques managed care/HMO cost-cutting, Medicare RVU cuts and the Balanced Budget Act; details reimbursement declines, perverse incentives, hospital and GME funding crises, and risks to vascular surgery viability; urges fair coding/payment."
+    },
+    {
+      "name": "Time in Care",
+      "confidence": 9,
+      "description": "Frames time as scarce; calls for more time with patients, families, and reflection; links time loss to dissatisfaction and alternative medicine\u2019s appeal; emphasizes cultivating \u2018timeless moments\u2019 in care."
+    },
+    {
+      "name": "Doctor-Patient Relationship",
+      "confidence": 9,
+      "description": "Argues trust, presence, and listening are paramount; offers 10 practical rules to restore caring; warns the pace and incentives of managed care erode this core relationship."
+    },
+    {
+      "name": "Future of Vascular Surgery",
+      "confidence": 8,
+      "description": "Predicts a paradigm shift toward endovascular and outpatient care, advanced imaging/virtual planning, and web-mediated access; urges adaptation while preserving open reconstruction expertise."
+    },
+    {
+      "name": "Workforce and Training",
+      "confidence": 7,
+      "description": "Highlights early retirements, recruitment challenges, debt burdens, and threatened GME funding; stresses protecting teaching environments and mentoring to sustain the specialty."
+    },
+    {
+      "name": "Demographic Pressures",
+      "confidence": 7,
+      "description": "Details aging baby boomers, rising longevity, and doubling Medicare beneficiaries, forecasting unprecedented demand for vascular care and associated cost pressures."
+    },
+    {
+      "name": "Technology and Innovation",
+      "confidence": 7,
+      "description": "Notes genomics, molecular biology, catheter-based therapies, noninvasive 3D imaging, and virtual planning; cautions technology is a tool and heightens the need for physician counsel amid information overload."
+    },
+    {
+      "name": "Self-Regulation and Accreditation",
+      "confidence": 6,
+      "description": "Emphasizes peer standards and oversight (e.g., vascular sub-board, fellowships, RRC) to maintain quality; warns against replacing clinician judgment with population-based protocols alone."
+    },
+    {
+      "name": "Personal Heritage",
+      "confidence": 5,
+      "description": "Shares Latvian refugee background, gratitude to family and mentors, contrasts with Latvian healthcare constraints, and affirms American freedoms as motivation for service."
+    }
+  ],
+  "2000": [
+    {
+      "name": "Embracing Change",
+      "confidence": 10,
+      "description": "Urgent call for the SVS and vascular surgeons to adapt rapidly to technological, societal, and organizational shifts, pass leadership to younger members, and discard outdated practices."
+    },
+    {
+      "name": "SVS History",
+      "confidence": 9,
+      "description": "Founding, early meetings and presentations, key milestones such as the Journal of Vascular Surgery, Lifeline Foundation, and evolution from cardiac to distinct peripheral vascular focus."
+    },
+    {
+      "name": "Endovascular Adoption",
+      "confidence": 9,
+      "description": "Rise of endovascular techniques (EVAR, angioplasty, stenting), training and equipment needs, collaboration models with radiology/cardiology, and ongoing research and surveillance of device outcomes."
+    },
+    {
+      "name": "Basic Research",
+      "confidence": 8,
+      "description": "Need to sustain and fund foundational science in vascular disease; support young investigators through Lifeline Foundation, NIH collaborations, conferences, and mentorship."
+    },
+    {
+      "name": "Specialty Identity",
+      "confidence": 8,
+      "description": "Affirming vascular surgery as a distinct specialty with dedicated boards, curricula, journals, and proposed Sub-RRC, emphasizing quality standards and specialized training."
+    },
+    {
+      "name": "Reimbursement Advocacy",
+      "confidence": 7,
+      "description": "Engagement with HCFA/Medicare, CPT coding for endografts, and Government Relations efforts to protect fiscal viability amid declining reimbursements."
+    },
+    {
+      "name": "Outcomes Credentialing",
+      "confidence": 6,
+      "description": "Leadership in outcomes research and development of ongoing credentialing standards, using data (e.g., carotid endarterectomy) to demonstrate quality and cost-effectiveness."
+    },
+    {
+      "name": "Training and Mentorship",
+      "confidence": 7,
+      "description": "Ensuring fellows master all intervention modalities, fostering grantsmanship and career development, and aligning program directors and boards to modern requirements."
+    },
+    {
+      "name": "Public and Global Outreach",
+      "confidence": 6,
+      "description": "Educating patients and the public via modern media and websites, showcasing the value of vascular surgeons, and building international ties (e.g., with ESVS) and joint meetings."
+    }
+  ],
+  "2001": [
+    {
+      "name": "Independent Vascular Board",
+      "confidence": 10,
+      "description": "Advocates creating an independent American Board of Vascular Surgery and a dedicated RRC to certify training, define the specialty, and separate from the ABS, citing member support, feasibility, and urgency."
+    },
+    {
+      "name": "Training Paradigm Reform",
+      "confidence": 9,
+      "description": "Proposes a focused 6-year pathway (2+4 or 3+3) integrating imaging and endovascular skills, replacing prolonged general surgery-first training and double-boarding."
+    },
+    {
+      "name": "Old General Surgery Paradigm",
+      "confidence": 9,
+      "description": "Critiques the ABS/RRC model that treats vascular as a general surgery component, producing two tiers of practitioners and inefficient, often irrelevant, training."
+    },
+    {
+      "name": "Technology Driven Identity",
+      "confidence": 8,
+      "description": "Explains how imaging, stents, and endovascular tools reshaped the field's identity from 'general and vascular' to 'vascular and endovascular' and intensified competition."
+    },
+    {
+      "name": "Patient Outcomes and Privileging",
+      "confidence": 8,
+      "description": "Argues for outcome-based competence evaluation and centralized care, rejecting occasional vascular practice by general surgeons as a patient-safety issue."
+    },
+    {
+      "name": "Research Priorities Shift",
+      "confidence": 7,
+      "description": "Calls for elevating technology, imaging, and outcomes research alongside molecular biology; establishes a Board of Technology and Clinical Studies to guide industry and regulators."
+    },
+    {
+      "name": "Workforce and Recruitment",
+      "confidence": 7,
+      "description": "Highlights debt burden, long training, match failures, and declining fellowship appeal that threaten the pipeline and numbers of vascular surgeons."
+    },
+    {
+      "name": "Governance and Strategy",
+      "confidence": 7,
+      "description": "Details negotiations with ABS/ABMS, membership polling, proposed board composition (including radiology and cardiology representatives), and a multi-year path to independence."
+    },
+    {
+      "name": "Interdisciplinary Competition",
+      "confidence": 6,
+      "description": "Describes conflicts with radiology, cardiology, and general surgery over endovascular procedures and the need for autonomy to define scope and training."
+    },
+    {
+      "name": "Historical Evolution",
+      "confidence": 5,
+      "description": "Reviews origins in general/thoracic surgery with endarterectomy, bypass, angiography, and prosthetic grafts, and later disruption by stents and stent-grafts."
+    }
+  ],
+  "2003": [
+    {
+      "name": "Vascular Specialty Recognition",
+      "confidence": 10,
+      "description": "Struggle to secure an independent ABMS-recognized board for vascular surgery (ABVS), the LCSB denial, relations with ABS, and the strategic path forward including appeals."
+    },
+    {
+      "name": "Training Paradigm Reform",
+      "confidence": 9,
+      "description": "Proposals to restructure vascular training to incorporate endovascular skills, early specialization, dual vs standalone certification, and concerns over program length."
+    },
+    {
+      "name": "Certification Governance Issues",
+      "confidence": 8,
+      "description": "Roles and tensions among ABS, VSB, APDVS, RRC, and ABMS; recertification policies, standards-setting, and debate over a dedicated RRC for vascular surgery."
+    },
+    {
+      "name": "Dr. Samuel Mudd",
+      "confidence": 9,
+      "description": "Mudd\u2019s background, prior contacts with Booth, treatment of Booth\u2019s fractured leg, actions afterward, and how this entangled him in the assassination fallout."
+    },
+    {
+      "name": "Lincoln Assassination Narrative",
+      "confidence": 7,
+      "description": "Account of Booth\u2019s attack on Lincoln, involvement of co-conspirators, Booth\u2019s injury and escape, and his eventual capture and death."
+    },
+    {
+      "name": "Legal Proceedings and Exoneration",
+      "confidence": 7,
+      "description": "Military tribunal trial of conspirators, fairness and jurisdiction controversies, Mudd\u2019s life sentence and pardon, and later efforts to overturn his conviction via ABCMR and courts."
+    },
+    {
+      "name": "Fort Jefferson Epidemic",
+      "confidence": 6,
+      "description": "Mudd\u2019s imprisonment at Dry Tortugas, the yellow fever outbreak, his medical leadership during the crisis, prisoner outcomes, and effects on his reputation."
+    },
+    {
+      "name": "Analogies and Call",
+      "confidence": 6,
+      "description": "Use of Mudd\u2019s ordeal and the Quasimodo metaphor to frame vascular surgery\u2019s challenges, urging unity, advocacy, and perseverance to achieve recognition."
+    },
+    {
+      "name": "Residency Training Constraints",
+      "confidence": 4,
+      "description": "Brief mention of duty-hour limits and limited access for endovascular training as contributing pressures on current training models."
+    }
+  ],
+  "2004": [
+    {
+      "name": "Primary Certification Shift",
+      "confidence": 10,
+      "description": "Move vascular surgery from a general-surgery subspecialty to a primary certificate, gaining control over training pathways (including direct-entry models) via ABS agreement."
+    },
+    {
+      "name": "Carotid Stenting Adoption",
+      "confidence": 10,
+      "description": "Urges vascular surgeons to adopt carotid stenting, backing CPT codes, coverage, and device approvals to maintain legitimacy in carotid care."
+    },
+    {
+      "name": "Workforce Recruitment Crisis",
+      "confidence": 8,
+      "description": "Highlights declining applicant numbers and quality with rising unmatched positions, attributing the problem to the specialty\u2019s training content and status."
+    },
+    {
+      "name": "Credentialing Standards",
+      "confidence": 7,
+      "description": "Advocates outcomes-validated criteria (e.g., CREST) for carotid stenting privileges, with anatomic/medical inclusion criteria and institution-level consensus to ensure safety."
+    },
+    {
+      "name": "Inter-specialty Negotiations",
+      "confidence": 7,
+      "description": "Details ABVS\u2013ABS tensions and subsequent collaboration, including deferring appeals and jointly applying to ABMS to secure training autonomy."
+    },
+    {
+      "name": "Minority Status Strategy",
+      "confidence": 7,
+      "description": "Frames vascular surgeons as a minority among endovascular providers and calls for pragmatic adaptation rather than defensive resistance to new technologies."
+    },
+    {
+      "name": "Endovascular Growth Opportunities",
+      "confidence": 6,
+      "description": "Identifies growth in EVAR, SFA recanalization, and carotid stenting; notes vascular surgeons perform a large share of procedures and have high device utilization."
+    },
+    {
+      "name": "Endovascular Multiskill Set",
+      "confidence": 5,
+      "description": "Portrays vascular surgeons\u2019 combined open, endovascular, and venous capabilities ('endocompetence') as a unique value proposition."
+    },
+    {
+      "name": "Quality and Surveillance",
+      "confidence": 6,
+      "description": "Emphasizes patient safety and superior post-procedural follow-up by vascular surgeons as central to outcomes and professional legitimacy."
+    },
+    {
+      "name": "Live Dog Theme",
+      "confidence": 5,
+      "description": "Uses Ecclesiastes\u2019 \u2018live dog vs dead lion\u2019 to motivate decisive action on training reform and carotid stenting participation."
+    }
+  ],
+  "2005": [
+    {
+      "name": "Endovascular Technologies",
+      "confidence": 10,
+      "description": "Emerging and expanding use of carotid stenting vs endarterectomy and EVAR vs open repair; trial evidence, adoption trends, and lasting impact on outcomes and practice patterns."
+    },
+    {
+      "name": "Primary Certification",
+      "confidence": 9,
+      "description": "ABMS approval of a primary vascular surgery certificate, removing the general surgery board requirement and enabling 5-year integrated and 3+3 training tracks to grow the pipeline."
+    },
+    {
+      "name": "Demographics and Demand",
+      "confidence": 9,
+      "description": "Aging population and diabetes epidemic increase vascular disease burden and procedure volume, creating a workforce shortfall and urgency to expand training capacity."
+    },
+    {
+      "name": "Outcomes Measurement",
+      "confidence": 9,
+      "description": "Rise of quality reporting and pay-for-performance, NSQIP\u2019s risk-adjusted model, and the AVA/SVS Vascular Registry to meet CMS data requirements and enable benchmarking."
+    },
+    {
+      "name": "Endovascular Training",
+      "confidence": 7,
+      "description": "Documented gaps in fellowship exposure, reliance on short postfellowship courses, and SVS-led offerings and an online clearinghouse to upskill surgeons."
+    },
+    {
+      "name": "Public Outreach",
+      "confidence": 7,
+      "description": "Increased consumer awareness through AVA community screenings and the VascularWeb patient education portal, boosting referrals and understanding of vascular disease."
+    },
+    {
+      "name": "AAA Screening Policy",
+      "confidence": 6,
+      "description": "Updated USPSTF screening recommendations for older male smokers and advocacy for the SAAAVE Act to extend Medicare coverage to additional at-risk groups."
+    },
+    {
+      "name": "Accountability and Autonomy",
+      "confidence": 6,
+      "description": "Specialty framed as facing greater accountability to patients, payers, and policymakers alongside increased professional autonomy, with a call for unity toward shared goals."
+    }
+  ],
+  "2006": [
+    {
+      "name": "Unity and One Voice",
+      "confidence": 10,
+      "description": "Repeated call for SVS and vascular surgeons to present a unified identity and strong brand as complete vascular specialists to colleagues, the public, and media."
+    },
+    {
+      "name": "Vascular Specialty Independence",
+      "confidence": 9,
+      "description": "Push to achieve full independence via an ABMS-approved American Board of Vascular Surgery and its own residency review committee, with a joint SVS\u2013ABVS strategy group."
+    },
+    {
+      "name": "Primary Certificate Approval",
+      "confidence": 8,
+      "description": "Celebrates ACGME approval of the Primary Certificate, enabling a 5-year direct pathway from medical school, attracting more diverse trainees, and avoiding general surgery boards."
+    },
+    {
+      "name": "Cross-Specialty Competition",
+      "confidence": 9,
+      "description": "Details encroachment by cardiology, interventional radiology, nephrology, neurology, and vascular medicine, its impact on case volumes and income, and the need for a proactive response."
+    },
+    {
+      "name": "Extended Endovascular Techniques",
+      "confidence": 8,
+      "description": "Advocates expanding into broader endovascular interventions with proper training, credentialing, guidelines, and outcomes tracking; cites new SVS courses and minifellowships."
+    },
+    {
+      "name": "Training Paradigm Reform",
+      "confidence": 8,
+      "description": "Proposes an integrated 6-year program (surgical/medical rotations, vascular/endovascular, cardiac interventions) plus skills labs and minifellowships to produce comprehensive specialists."
+    },
+    {
+      "name": "Advocacy and Member Value",
+      "confidence": 8,
+      "description": "Reports on member-driven initiatives: credentialing statements, SVS-authored guidelines, hands-on training, and policy wins like Medicare AAA screening coverage and Fistula First leadership."
+    },
+    {
+      "name": "Advisory Assembly Collaboration",
+      "confidence": 7,
+      "description": "Introduces the Advisory Assembly of Vascular Societies as a unified think tank to coordinate strategies, avoid duplication, and amplify a single voice across organizations."
+    },
+    {
+      "name": "Business and Departments",
+      "confidence": 7,
+      "description": "Creates ACVS within SVS to improve business models, negotiate with hospitals, encourage entrepreneurial approaches, and pursue recognition including independent departments."
+    },
+    {
+      "name": "International Partnerships",
+      "confidence": 6,
+      "description": "Expands global ties via program exchanges with ESVS, an International Vascular Symposium, funding for visiting surgeons, and cofounding the World Federation of Vascular Societies."
+    }
+  ],
+  "2007": [
+    {
+      "name": "Vascular Care Leadership",
+      "confidence": 10,
+      "description": "Calls for vascular surgeons to reclaim and demonstrate leadership in managing vascular disease, emphasizing individual responsibility at the community level with SVS support."
+    },
+    {
+      "name": "Endovascular Disruption",
+      "confidence": 9,
+      "description": "Explains how the rise of minimally invasive techniques broadened competition from other specialties, shifting incentives and challenging surgeons\u2019 traditional leadership."
+    },
+    {
+      "name": "Leadership Attributes",
+      "confidence": 8,
+      "description": "Identifies five qualities\u2014skill, passion, vision, service, and optimism\u2014as essential traits for surgeons to lead and advance the specialty."
+    },
+    {
+      "name": "SVS Organizational Growth",
+      "confidence": 8,
+      "description": "Details the merger with AAVS, new infrastructure, offices, committees, and increased member engagement that strengthened SVS\u2019s capacity to support the field."
+    },
+    {
+      "name": "Endovascular Training Programs",
+      "confidence": 8,
+      "description": "Outlines SVS-led education to create fully endocompetent surgeons, including a comprehensive carotid stenting training pilot, simulation, and expanded educational offerings."
+    },
+    {
+      "name": "Branding and Outreach",
+      "confidence": 7,
+      "description": "Addresses misperceptions among referring physicians and the public; describes PR campaigns, media coverage, and a branding toolkit promoting \u2018see a vascular surgeon\u2019."
+    },
+    {
+      "name": "Workforce Recruitment",
+      "confidence": 7,
+      "description": "Argues for expanding fellowships and increasing trainee numbers; offers SVS resources to start or grow programs and outlines student/resident outreach and mentoring."
+    },
+    {
+      "name": "Clinical Research Initiatives",
+      "confidence": 7,
+      "description": "Presents a strategy to revive surgeon-led research via trial training, a site database, seed grants, and partnerships for large screening datasets and outcomes analysis."
+    },
+    {
+      "name": "Advocacy Achievements",
+      "confidence": 6,
+      "description": "Highlights policy wins such as Medicare coverage for AAA screening and SVS\u2019s influence on CMS decisions regarding carotid stenting through registries and engagement."
+    },
+    {
+      "name": "Reimbursement Wins",
+      "confidence": 6,
+      "description": "Notes successful lobbying that protected physiologic vascular lab payments from cuts\u2014preserving significant annual revenue\u2014and other reimbursement-focused efforts."
+    }
+  ],
+  "2008": [
+    {
+      "name": "SVS Strategic Goals",
+      "confidence": 10,
+      "description": "Affirms SVS must exist and sets three goals: promote specialty independence, advance comprehensive vascular care, and be the recognized voice for vascular surgeons."
+    },
+    {
+      "name": "Future Trends",
+      "confidence": 8,
+      "description": "Outlines demographic, patient expectation, technological, economic, and legislative forces that will shape vascular surgery in the coming decade."
+    },
+    {
+      "name": "Independent Identity",
+      "confidence": 9,
+      "description": "Reclaims vascular surgery\u2019s identity amid competition by emphasizing that only vascular surgeons deliver comprehensive care and by executing a targeted branding campaign to primary care."
+    },
+    {
+      "name": "Training & Certification",
+      "confidence": 8,
+      "description": "Details the ABS agreement granting the Vascular Surgery Board authority over training, certification, and exams, solidifying specialty autonomy."
+    },
+    {
+      "name": "Comprehensive Vascular Care",
+      "confidence": 8,
+      "description": "Promotes integrated open and endovascular interventions, imaging, and vascular lab diagnosis as the full spectrum of care uniquely provided by vascular surgeons."
+    },
+    {
+      "name": "Continuing Education",
+      "confidence": 8,
+      "description": "Expands CME via the annual meeting, new learning formats, hands-on skills training, key publications, VascularWeb, and MOC support (JVS questions, VESAP)."
+    },
+    {
+      "name": "Research Initiatives",
+      "confidence": 7,
+      "description": "Commits to advancing translational research with AVA funding and related programs to improve patient outcomes and reinforce leadership in vascular disease management."
+    },
+    {
+      "name": "Workforce Expansion",
+      "confidence": 7,
+      "description": "Addresses rising demand through a workforce study, expanding training slots and programs (including 0-5), and recruiting/mentoring medical students and residents."
+    },
+    {
+      "name": "Authoritative Voice",
+      "confidence": 8,
+      "description": "Positions SVS as the authority by standardizing nomenclature, issuing evidence-based guidelines, defining performance benchmarks with FDA, and leveraging the SVS registry to assess effectiveness."
+    },
+    {
+      "name": "Advocacy & Policy",
+      "confidence": 8,
+      "description": "Engages Congress, CMS, and FDA on reimbursement and coverage, highlighting wins like the SAAAVE Act and DRA adjustments, within a shifting U.S. healthcare landscape."
+    }
+  ],
+  "2009": [
+    {
+      "name": "Comparative Effectiveness Research",
+      "confidence": 10,
+      "description": "Defines CER, its federal funding and goals, links to cost-effectiveness, potential institute, and debates over its use to influence physician behavior and guidelines."
+    },
+    {
+      "name": "Health Care Cost Crisis",
+      "confidence": 9,
+      "description": "Explores unsustainable U.S. health spending, GDP share, federal budget pressures (Medicare/Medicaid), and drivers like utilization and medical prices."
+    },
+    {
+      "name": "SVS Role in CER",
+      "confidence": 9,
+      "description": "Outlines SVS tools and plans\u2014guidelines, reporting standards, registries, a Task Force, and partnerships\u2014to lead comparative and cost-effectiveness studies."
+    },
+    {
+      "name": "Spending Outcome Variation",
+      "confidence": 8,
+      "description": "Presents cross-country and regional U.S. variations showing more spending does not yield better outcomes, using Dartmouth Atlas and specialty density examples."
+    },
+    {
+      "name": "Health Reform Context",
+      "confidence": 7,
+      "description": "Describes the administration\u2019s reform agenda, focus on the uninsured, cost containment, and how CER is embedded in federal policy and stimulus funding."
+    },
+    {
+      "name": "International NICE Model",
+      "confidence": 6,
+      "description": "Profiles the UK\u2019s NICE, its methods and controversies, and its EVAR recommendations, contrasting them with U.S. perspectives."
+    },
+    {
+      "name": "SVS Outreach and Inclusion",
+      "confidence": 5,
+      "description": "Highlights efforts to broaden membership across the vascular team (international members, technologists, PAs, nurses, podiatrists) to build a comprehensive society."
+    },
+    {
+      "name": "Democratic Committee Appointments",
+      "confidence": 4,
+      "description": "Details the revamped, RFA-based selection process prioritizing expertise and availability over connections to strengthen SVS committees."
+    },
+    {
+      "name": "Modality Neutral Surgeons",
+      "confidence": 6,
+      "description": "Argues vascular surgeons, who practice medical, endovascular, and open surgery, are best positioned to choose effective, cost-efficient care and set standards."
+    },
+    {
+      "name": "Vascular Treatment Comparisons",
+      "confidence": 7,
+      "description": "Lists specific comparative questions (EVAR vs open, CEA vs CAS, medical/exercise vs intervention for claudication, endo-first vs bypass, etc.) targeted for study."
+    }
+  ],
+  "2010": [
+    {
+      "name": "P4P Overview",
+      "confidence": 10,
+      "description": "Introduces CMS pay-for-performance (value-based purchasing), its goals, potential unintended consequences, limited evidence, and its accelerating adoption."
+    },
+    {
+      "name": "Reimbursement and SGR",
+      "confidence": 9,
+      "description": "Explains Medicare\u2019s RBRVS, conversion factor, and SGR formula, projected physician payment cuts, effects on access, and calls to repeal SGR."
+    },
+    {
+      "name": "Outcomes Measurement and Risk",
+      "confidence": 9,
+      "description": "Emphasizes valid, risk-adjusted outcomes as the backbone of P4P; references surgery\u2019s M&M tradition, Codman, and IOM reports on quality and safety."
+    },
+    {
+      "name": "Surgical Care Improvement Project",
+      "confidence": 8,
+      "description": "Details SCIP goals and measures (infection, cardiac, VTE, respiratory), QIO-supported implementation, Premier hospital demonstration, and pay-for-reporting steps."
+    },
+    {
+      "name": "Physician Voluntary Reporting",
+      "confidence": 7,
+      "description": "Outlines PVRP use of G-codes for quality data, feedback to providers, CPT II vs G-code debate, and progression toward EHR-based national reporting."
+    },
+    {
+      "name": "NSQIP Expansion",
+      "confidence": 8,
+      "description": "Describes VA-originated, risk-adjusted NSQIP, its proven morbidity/mortality reductions, ACS-NSQIP rollout in private hospitals, and role as a P4P platform."
+    },
+    {
+      "name": "Stakeholder Collaborations",
+      "confidence": 7,
+      "description": "Covers AMA Physician Consortium, National Quality Forum, AQA, and Surgical Quality Alliance roles in developing, endorsing, and aligning performance measures."
+    },
+    {
+      "name": "Funding and Incentives",
+      "confidence": 8,
+      "description": "Examines incentive models (bonuses, withholds), lack of Congressional funding, and political context including AMA\u2013Congress agreements on measures and reporting."
+    },
+    {
+      "name": "Carotid P4P and Registry",
+      "confidence": 6,
+      "description": "Notes CMS coverage for carotid stenting tied to data submission and performance, and the SVS registry capturing stenting and endarterectomy outcomes for compliance."
+    },
+    {
+      "name": "Surgeon Engagement",
+      "confidence": 6,
+      "description": "Urges vascular surgeons\u2014especially in private practice\u2014to join committees, adopt NSQIP, shape measures, and prepare for an inevitable P4P future."
+    }
+  ],
+  "2012": [
+    {
+      "name": "CEA vs CAS",
+      "confidence": 10,
+      "description": "Compares carotid endarterectomy with carotid stenting on safety, efficacy, and outcomes across age and symptom subgroups, concluding CEA is superior and critiquing CAS complication rates."
+    },
+    {
+      "name": "Asymptomatic Carotid Management",
+      "confidence": 9,
+      "description": "Reviews natural history and risk stratification of asymptomatic stenosis, debates optimal medical therapy versus intervention, and argues that significant lesions still benefit from CEA."
+    },
+    {
+      "name": "Carotid Pathophysiology",
+      "confidence": 9,
+      "description": "Explains plaque-driven stroke mechanisms (ulceration, intraplaque hemorrhage), robust cerebral collaterals, and why luminal expansion with uncovered stents is inherently risky."
+    },
+    {
+      "name": "Evidence and Guidelines",
+      "confidence": 8,
+      "description": "Synthesizes trials and meta-analyses (NASCET, ACST, ICSS, CREST) and details SVS guidelines, CMS/MEDCAC deliberations, and international recommendations shaping practice."
+    },
+    {
+      "name": "Future CAS Innovations",
+      "confidence": 7,
+      "description": "Describes emerging approaches\u2014flow reversal, covered stents, transcervical access\u2014and early trial data (e.g., EMPIRE, PROOF) aimed at improving CAS safety."
+    },
+    {
+      "name": "SVS Initiatives",
+      "confidence": 6,
+      "description": "Highlights the Vascular Quality Initiative, Patient Safety Organization status, data registries, and broader efforts to lead quality improvement and benchmarking."
+    },
+    {
+      "name": "Training and Workforce",
+      "confidence": 6,
+      "description": "Addresses flat workforce projections and SVS actions to expand integrated residencies and fellowships, with mentoring and toolkits to create new programs."
+    },
+    {
+      "name": "SVS and MGH History",
+      "confidence": 6,
+      "description": "Recounts the society\u2019s origins and MGH\u2019s role, profiling pioneers (Allen, Linton, Darling, Crawford) and their foundational contributions to vascular surgery."
+    },
+    {
+      "name": "Cost and Utilization",
+      "confidence": 6,
+      "description": "Assesses cost-effectiveness favoring CEA, notes specialty-driven proliferation of CAS in Medicare data, and draws parallels to overuse of renal artery stenting."
+    },
+    {
+      "name": "Personal Leadership Reflections",
+      "confidence": 5,
+      "description": "Shares personal story, gratitude to mentors and family, and emphasizes leadership values, mission, and professional fulfillment in vascular surgery."
+    }
+  ],
+  "2013": [
+    {
+      "name": "Patient-First Mission",
+      "confidence": 10,
+      "description": "Core emphasis on delivering the best vascular care to every patient, guided by Hippocratic values and Mayo\u2019s principle that the patient\u2019s interests come first."
+    },
+    {
+      "name": "Healthcare Reform Impact",
+      "confidence": 9,
+      "description": "Analyzes how the Affordable Care Act and value-based reimbursement affect vascular surgeons, including taxes, PQRS penalties, payment cuts, and shifts toward primary care."
+    },
+    {
+      "name": "SVS History and Initiatives",
+      "confidence": 9,
+      "description": "Reviews SVS founding, merger with AAVS, growth in membership/assets, committees, PSO/VQI expansion, education/research programs, and the new strategic plan."
+    },
+    {
+      "name": "Vascular Specialty Leadership",
+      "confidence": 8,
+      "description": "Argues that vascular surgeons should lead comprehensive arterial and aortic care, citing EVAR adoption, improved outcomes, and the specialty\u2019s broad capabilities."
+    },
+    {
+      "name": "Venous Disease Leadership",
+      "confidence": 7,
+      "description": "Highlights leadership in venous/lymphatic care, new specialty journal, PRESERVE IVC filter study, VQI venous modules, and patient success stories."
+    },
+    {
+      "name": "Personal Journey and Mentors",
+      "confidence": 7,
+      "description": "Shares immigrant background, medical training in Hungary and France, path to Mayo Clinic, influential mentors, team members, and family support."
+    },
+    {
+      "name": "Health Policy Advocacy",
+      "confidence": 7,
+      "description": "Describes SVS advocacy on Medicare payment reform, SGR repeal, screening coverage, ultrasound reimbursement, IPAB repeal, and engagement with Congress."
+    },
+    {
+      "name": "Vascular Training Expansion",
+      "confidence": 6,
+      "description": "Details growth and competitiveness of integrated and independent residency programs and the need to expand training to meet future demand."
+    },
+    {
+      "name": "Innovation and Retraining",
+      "confidence": 6,
+      "description": "Urges maintaining open surgical excellence while adopting endovascular and venous techniques, focusing on value, cost-effectiveness, and team leadership."
+    },
+    {
+      "name": "Mayo Clinic Model",
+      "confidence": 6,
+      "description": "Describes Mayo\u2019s multidisciplinary, integrated, patient-centered care model and the Gonda Vascular Center as an example of collaborative leadership."
+    }
+  ],
+  "2014": [
+    {
+      "name": "Theme of Chances",
+      "confidence": 10,
+      "description": "Central message urging giving and taking chances to shape careers, patient care, and personal growth, with practical examples and reflections."
+    },
+    {
+      "name": "SVS Strategic Plan",
+      "confidence": 9,
+      "description": "Creation and implementation of the Society's first strategic plan, outlining purpose, values, goals, operational alignment, and early progress."
+    },
+    {
+      "name": "Women in Surgery",
+      "confidence": 9,
+      "description": "Focus on women's representation and leadership, the speaker\u2019s historic firsts, workforce statistics, institutional examples, and a call for male allies."
+    },
+    {
+      "name": "Leadership and Mentorship",
+      "confidence": 8,
+      "description": "Guidance on leading with authenticity, integrity, and innovation, modeling desired behaviors, and mentoring colleagues and trainees."
+    },
+    {
+      "name": "Personal Career Journey",
+      "confidence": 7,
+      "description": "Narrative of the speaker\u2019s path, roles, mentors, and how embracing opportunities shaped her professional trajectory."
+    },
+    {
+      "name": "Patient-Centered Care",
+      "confidence": 6,
+      "description": "Emphasis on being excellent physicians who listen and care before, during, and after surgery; includes featuring a patient\u2019s story."
+    },
+    {
+      "name": "Education and Training",
+      "confidence": 6,
+      "description": "Commitment to advancing education, training, and research, and creating opportunities for students, residents, and fellows."
+    },
+    {
+      "name": "Teamwork and Execution",
+      "confidence": 5,
+      "description": "Recognition of staff and member collaboration and disciplined effort required to develop and implement major Society initiatives."
+    },
+    {
+      "name": "Call to Action",
+      "confidence": 6,
+      "description": "Appeal for members to take risks, lead change, and pursue shared goals to improve the profession and patient outcomes."
+    },
+    {
+      "name": "Gratitude and Firsts",
+      "confidence": 4,
+      "description": "Expressions of thanks to members, mentors, and family, and highlighting notable firsts in the address and within the Society."
+    }
+  ],
+  "2015": [
+    {
+      "name": "Vascular Overtreatment",
+      "confidence": 10,
+      "description": "Argues that many venous and arterial procedures are performed without appropriate indications, raising costs and risking patient harm."
+    },
+    {
+      "name": "Site-of-Service Economics",
+      "confidence": 9,
+      "description": "Explains how office-based centers, combined facility/professional fees, and RVU-driven compensation create strong incentives to overuse procedures."
+    },
+    {
+      "name": "Evidence of Overuse",
+      "confidence": 8,
+      "description": "Cites Dartmouth Atlas variation, dramatic growth in venous ablations and atherectomy, and reports from multiple specialties documenting unnecessary procedures."
+    },
+    {
+      "name": "VQI Quality Measurement",
+      "confidence": 8,
+      "description": "Promotes the Vascular Quality Initiative to track outcomes, add appropriateness metrics (CAPI/COPI), and collect long-term data to detect overtreatment."
+    },
+    {
+      "name": "Inter-specialty Variation",
+      "confidence": 7,
+      "description": "Describes how differing training and literature among surgeons, cardiologists, and radiologists lead to inconsistent treatment, notably for claudication."
+    },
+    {
+      "name": "Expansive Technology",
+      "confidence": 6,
+      "description": "Discusses how minimally invasive devices enable non-specialists to enter vascular care, expanding procedure volume and potential misuse."
+    },
+    {
+      "name": "Professional Ethics",
+      "confidence": 7,
+      "description": "Reflects on ethical drift fueled by financial and emotional rewards, and the risks posed by unmonitored office settings."
+    },
+    {
+      "name": "Accreditation and Oversight",
+      "confidence": 7,
+      "description": "Calls for accreditation and mandated quality oversight of office-based procedural centers to deter inappropriate care."
+    },
+    {
+      "name": "Reimbursement Reforms",
+      "confidence": 7,
+      "description": "Proposes tying payment to board certification, registry participation, procedure durability, supervised exercise coverage, and pay-over-time models."
+    },
+    {
+      "name": "Appropriateness Guidelines",
+      "confidence": 8,
+      "description": "Urges SVS-led, evidence-based practice and appropriateness criteria\u2014single-specialty, multispecialty, and international\u2014to standardize indications and sites of service."
+    }
+  ],
+  "2016": [
+    {
+      "name": "Vascular Surgery Exceptionalism",
+      "confidence": 10,
+      "description": "Defines the specialty\u2019s unique brand\u2014exclusive focus on vascular disease, full-spectrum treatment (medical, endovascular, open), long-term patient relationships, and a culture summarized as \u2018we care.\u2019"
+    },
+    {
+      "name": "SVS Leadership Achievements",
+      "confidence": 9,
+      "description": "Details the SVS\u2019s transformation since the merger, membership growth, governance, and concrete wins in reimbursement, legislation, education (e.g., VESAP access), and daily member support."
+    },
+    {
+      "name": "Workforce and Training Shortages",
+      "confidence": 9,
+      "description": "Warns of physician/surgeon shortages due to the aging workforce and limited training slots; discusses voluntary/involuntary retirement, calls for competency standards for older surgeons, and urges expansion of training pathways."
+    },
+    {
+      "name": "Health Policy and Reimbursement",
+      "confidence": 8,
+      "description": "Explains Medicare pressures, MACRA/MIPS, bundled payments, administrative cost burdens, and hospital economics, positioning vascular surgery amid shifting payment models."
+    },
+    {
+      "name": "Quality Improvement Initiatives",
+      "confidence": 8,
+      "description": "Highlights SVS leadership via VQI and the Patient Safety Organization, collaboration with FDA and industry on postmarket surveillance, and the role of guidelines in defining appropriate care."
+    },
+    {
+      "name": "Team-Based Vascular Care",
+      "confidence": 7,
+      "description": "Celebrates the inclusive \u2018vascular family\u2019\u2014nurses, PAs, sonographers, community and academic surgeons\u2014with stories illustrating patient-centered dedication and unity."
+    },
+    {
+      "name": "Political Advocacy and PR",
+      "confidence": 7,
+      "description": "Urges grassroots activism and partnering with senior patients as voters; outlines a new SVS public relations and media strategy to communicate value and educate stakeholders."
+    },
+    {
+      "name": "Ethics and Appropriate Care",
+      "confidence": 6,
+      "description": "Addresses unnecessary procedures and reputational risk; introduces stricter ethics requirements and expanded conduct oversight to safeguard patients and integrity."
+    },
+    {
+      "name": "Innovation and Industry Partnership",
+      "confidence": 6,
+      "description": "Uses the EVAR story and a ruptured AAA case to show life-saving innovation; defends ethical surgeon\u2013industry collaboration and critiques barriers like the device tax."
+    },
+    {
+      "name": "Personal Journey and Gratitude",
+      "confidence": 5,
+      "description": "Shares humble reflections\u2014family and mentors, personal critical illness with an intra-aortic balloon pump\u2014and gratitude for the honor of serving as SVS president."
+    }
+  ],
+  "2017": [
+    {
+      "name": "Career Journey Reflections",
+      "confidence": 10,
+      "description": "Recounts the path into vascular surgery, transitions between private practice and academia, pivotal experiences, and lessons shaping professional identity."
+    },
+    {
+      "name": "Vascular Financial Value",
+      "confidence": 9,
+      "description": "Detailed analysis of Penn Vascular Surgery\u2019s revenues, contribution margins, downstream value, effects of ED transfers/EMTALA on costs, and strategies to improve economics."
+    },
+    {
+      "name": "SVS Growth and Partnerships",
+      "confidence": 8,
+      "description": "Updates on Society for Vascular Surgery initiatives\u2014VQI, guidelines, advocacy, collaborations with other societies and the ACS centers-of-excellence effort, and outpatient accreditation."
+    },
+    {
+      "name": "Service and Volunteerism",
+      "confidence": 8,
+      "description": "Frames service as the profession\u2019s core purpose, highlighting volunteer work at Landstuhl caring for wounded soldiers and concluding reflections on service as a personal mission."
+    },
+    {
+      "name": "Leadership and Quality",
+      "confidence": 7,
+      "description": "Emphasizes holding administrative roles, implementing cost transparency tools (Epic OpTime), expanding VQI, and correcting misattributed Vizient outcome data."
+    },
+    {
+      "name": "Personal Acknowledgments",
+      "confidence": 6,
+      "description": "Expresses gratitude to family, mentors, colleagues, and SVS staff whose support shaped the year and career."
+    },
+    {
+      "name": "Penn Vascular Division",
+      "confidence": 6,
+      "description": "Recognizes faculty, trainees, nurse practitioner collaboration, cross-entity leadership, and educational and institutional contributions at Penn."
+    },
+    {
+      "name": "Worst to Best Case",
+      "confidence": 6,
+      "description": "Narrates a complex innominate artery pseudoaneurysm case that transformed from imminent catastrophe to success via multidisciplinary teamwork."
+    },
+    {
+      "name": "Advice to Trainees",
+      "confidence": 6,
+      "description": "Offers practical pearls on resilience, ownership with collaboration, reinvention, balance, mentorship, and patient-centered purpose."
+    },
+    {
+      "name": "Vascular Career Appeal",
+      "confidence": 5,
+      "description": "Highlights why vascular surgery is rewarding\u2014diverse procedures, enduring patient relationships, research opportunities, and adaptable practice models."
+    }
+  ],
+  "2018": [
+    {
+      "name": "Team-Based Vascular Care",
+      "confidence": 10,
+      "description": "Argues that high-quality vascular care relies on interdisciplinary teams across OR, ICU, and clinic, shifting from captain to leader and using briefings and debriefings."
+    },
+    {
+      "name": "SVS Strategic Initiatives",
+      "confidence": 9,
+      "description": "Details the Society\u2019s agenda and task forces on payment models, certification, wellness, valuation, and workforce, emphasizing staff leadership and member support."
+    },
+    {
+      "name": "Branding and Partnerships",
+      "confidence": 8,
+      "description": "Urges branding vascular surgery and building collaborations with nursing, PAs, and multiple societies to strengthen identity and patient-centered care."
+    },
+    {
+      "name": "Certification and Standards",
+      "confidence": 8,
+      "description": "Proposes SVS-led inpatient and outpatient vascular center certification, appropriateness criteria, and data-driven quality to influence administrators and payers."
+    },
+    {
+      "name": "Education and Training Reform",
+      "confidence": 7,
+      "description": "Calls for leadership training, team-based learning and simulation, pre- and post-procedure briefings, and greater autonomy in governance and accreditation."
+    },
+    {
+      "name": "Failure and Resilience",
+      "confidence": 7,
+      "description": "Frames setbacks as learning opportunities, sharing personal failures to model persistence, pilot testing, and a safe culture for growth."
+    },
+    {
+      "name": "Wellness and Burnout",
+      "confidence": 6,
+      "description": "Highlights burnout risks and an SVS task force to identify triggers, destigmatize seeking help, and build support systems for healthy practice."
+    },
+    {
+      "name": "Vascular Surgery Evolution",
+      "confidence": 6,
+      "description": "Recounts past OR culture, early noninvasive imaging, and choreographed teamwork that produced outcomes, drawing lessons from history."
+    },
+    {
+      "name": "Personal and Family Acknowledgments",
+      "confidence": 5,
+      "description": "Extensive thanks to family, mentors, and Albany colleagues, with anecdotes showing sacrifice, values, and role models shaping leadership."
+    },
+    {
+      "name": "Senior Surgeon Pathways",
+      "confidence": 6,
+      "description": "Advocates structured transition roles for late-career surgeons, leveraging experience for advocacy, quality, administration, and mentoring beyond clinical work."
+    }
+  ],
+  "2019": [
+    {
+      "name": "Vascular Workforce Shortage",
+      "confidence": 10,
+      "description": "Core challenge of too few vascular surgeons to meet rising demand, limiting access, competitiveness, and patient care nationwide."
+    },
+    {
+      "name": "Community Hospital Access",
+      "confidence": 9,
+      "description": "Acute shortages in smaller and mid-size hospitals, leading to reliance on non-vascular specialists and compromised care; illustrated by multiple vignettes."
+    },
+    {
+      "name": "Geographic Maldistribution",
+      "confidence": 8,
+      "description": "Uneven distribution of surgeons and training programs with urban clustering; many states fall below optimal density targets."
+    },
+    {
+      "name": "Training Reform and Pipeline",
+      "confidence": 8,
+      "description": "Limits in fellowship and integrated output, calls for earlier specialization and modular training, medical student outreach, and comparisons to Germany\u2019s model."
+    },
+    {
+      "name": "New Community Training Pathway",
+      "confidence": 9,
+      "description": "Proposed 1-year SVS-sponsored program for general surgery graduates to perform low-complexity vascular care with mandated regional mentorship and referral."
+    },
+    {
+      "name": "SVS Taskforce Initiatives",
+      "confidence": 8,
+      "description": "Three workgroups targeting more training positions, a valuation study, and community-focused models; outreach to programs and resource development."
+    },
+    {
+      "name": "Healthcare Delivery Shifts",
+      "confidence": 7,
+      "description": "Growth of ambulatory/office-based practices and large health system employment affecting emergency coverage and necessitating education of administrators."
+    },
+    {
+      "name": "Valuation of Vascular Surgery",
+      "confidence": 6,
+      "description": "Economic analysis to demonstrate clinical and financial value to hospitals, producing materials to inform executives and improve support."
+    },
+    {
+      "name": "Demographic Cliff",
+      "confidence": 7,
+      "description": "A large, aging cohort from early certification years is retiring concurrently, worsening near-term shortages."
+    },
+    {
+      "name": "SVS Achievements and Growth",
+      "confidence": 5,
+      "description": "Society milestones: headquarters move, membership expansion, VQI growth, new journal (JVS/Science), guidelines, education platforms, branding, wellness, and advocacy."
+    }
+  ],
+  "2021": [
+    {
+      "name": "Diversity and Inclusion",
+      "confidence": 10,
+      "description": "Makes the case for a more diverse, equitable specialty by highlighting demographic shifts, historical exclusion of women and Black surgeons, implicit bias, imposter syndrome, #MedBikini, and the moral/practical need for inclusivity."
+    },
+    {
+      "name": "DEI Initiatives",
+      "confidence": 9,
+      "description": "Details concrete SVS actions: DEI Committee, mission/bylaws updates, implicit bias training, member census metrics, PRESS framework, reformed appointments process with representation targets, and leadership training to ensure equitable opportunity."
+    },
+    {
+      "name": "Strategic Plan Progress",
+      "confidence": 9,
+      "description": "Reports achievements across quality (Claudication AUC, guidelines, VQI/PVD registry expansion), research (NIH K award effort change, new priorities), advocacy (reimbursement relief, PAC mobilization), education (LMS, leadership program, VAM), and practice support."
+    },
+    {
+      "name": "SVS History",
+      "confidence": 8,
+      "description": "Reviews founding, charter members, and decade-by-decade milestones (board certification, JVS, Lifeline, endovascular advances, VQI), including Stanford\u2019s long-standing ties to SVS."
+    },
+    {
+      "name": "Young Surgeons Section",
+      "confidence": 8,
+      "description": "Proposes creating a section for surgeons in their first 10 years to boost engagement and relevance, offering career resources, networking, leadership pathways, and representation within SVS governance."
+    },
+    {
+      "name": "Future Vision",
+      "confidence": 8,
+      "description": "Frames the next 75 years around sustainability, social and intergenerational equity, and a commitment to be 'the best at getting better' so SVS remains relevant and effective."
+    },
+    {
+      "name": "Organizational Communications",
+      "confidence": 7,
+      "description": "Describes unifying the SVS voice (Town Halls, Connect, Tweet Chats), diversifying journal leadership, expanding social media, launching the Audible Bleeding podcast, and executing branding and valuation campaigns."
+    },
+    {
+      "name": "Leadership Development",
+      "confidence": 7,
+      "description": "Emphasizes allyship, mentorship, and stewardship, highlighting the Leadership Development Program and new leadership training to build capabilities and broaden the pipeline."
+    },
+    {
+      "name": "Vascular Surgery Impact",
+      "confidence": 6,
+      "description": "Affirms the specialty\u2019s essential role in preventing strokes, amputations, and premature death, setting global standards of care and advancing noninvasive testing."
+    },
+    {
+      "name": "Personal Reflections",
+      "confidence": 5,
+      "description": "Shares the speaker\u2019s family background, mentors, Stanford experiences, and gratitude to colleagues and staff to humanize the address and connect to the profession\u2019s values."
+    }
+  ],
+  "2022": [
+    {
+      "name": "Global SVS Leadership",
+      "confidence": 9,
+      "description": "Highlights past SVS presidents born outside the U.S. and their contributions, emphasizing the society\u2019s international openness and growth of global chapters."
+    },
+    {
+      "name": "Membership Growth and Inclusion",
+      "confidence": 9,
+      "description": "Details removal of membership caps, broadened qualifications, new categories (affiliate, associate, candidate), creation of sections (PAs, community, women, young surgeons), and overall membership growth."
+    },
+    {
+      "name": "Governance Restructuring",
+      "confidence": 8,
+      "description": "Traces evolution to an Executive Board with full authority and a Strategic Board for planning, plus councils and committees that structure SVS operations."
+    },
+    {
+      "name": "Leadership Selection Processes",
+      "confidence": 8,
+      "description": "Explains modernized appointments with DEI representation, revised Nominating Committee composition, and electronic elections presenting two-candidate slates."
+    },
+    {
+      "name": "Community Practice Investment",
+      "confidence": 8,
+      "description": "Describes building the community practice and office-based lab sections, permanent representation on boards and committees, VAM programming, and new recognition awards."
+    },
+    {
+      "name": "Multispecialty Collaboration",
+      "confidence": 9,
+      "description": "Advocates for common training pathways and quality metrics for non-vascular specialists performing endovascular therapy; references VQI data and engagement with cardiology and other societies."
+    },
+    {
+      "name": "Centers of Excellence",
+      "confidence": 7,
+      "description": "Reviews the Ashford General Hospital model and the Charleston Vascular Center of Excellence as multidisciplinary templates with defined training and staffing."
+    },
+    {
+      "name": "Future SVS Agenda",
+      "confidence": 7,
+      "description": "Outlines priorities: brand the specialty, advocate for fair payment, support wellness and early career members, advance diversity, ensure quality, and collaborate across specialties."
+    },
+    {
+      "name": "Personal Gratitude and Mentorship",
+      "confidence": 6,
+      "description": "Offers thanks to family, colleagues, and mentors; recounts the speaker\u2019s immigrant journey and influences shaping his career."
+    },
+    {
+      "name": "Member Survey Insights",
+      "confidence": 6,
+      "description": "Summarizes survey results on practice types, perceived competition from cardiology and radiology, and support for cardiologists performing interventions with 1\u20132 years of dedicated training."
+    }
+  ]
+}
